@@ -1,4 +1,4 @@
-y = int(input("Entrez un nombre :"))
+y = float(input("Entrez un nombre :"))
 
 if y >= 2:
     if y < 3:
